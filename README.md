@@ -6,8 +6,9 @@ Slightly remixed dark user interface theme and matching code color scheme based 
 
 Requirements
 ---
-Qt Creator >= 3.3.0 (themes support)
-If you're using earlier version of Qt Creator, your only option is to use css stylesheet themes like [Darcula](https://github.com/mervick/Qt-Creator-Darcula).
+This is branch 4.x - it will work only with QtCreator 4.x  
+If you're using QtCreator 3.x - please see master branch.  
+If you're using even older version of Qt Creator, your only option is to use css stylesheet themes like [Darcula](https://github.com/mervick/Qt-Creator-Darcula).
 
 Usage
 --
